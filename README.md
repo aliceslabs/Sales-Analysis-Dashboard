@@ -1,5 +1,8 @@
 # Sales-Analysis-Dashboard
-Personal Project to practice skills in SQL Data Cleaning &amp; Extraction, and Power BI Dashboard Creation.
+Personal Project to practice skills in SQL Data Cleaning &amp; Extraction, and Power BI Dashboard Creation. 
+
+Used the AdventureWorks Sample Database: 
+https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver15&tabs=ssms
 
 The business request for this data analyst project was an executive sales report for sales managers. Based on the Business request, the following user stories were defined to fulfill delivery and ensure that the acceptance criteria was maintained throughout the project.
 
