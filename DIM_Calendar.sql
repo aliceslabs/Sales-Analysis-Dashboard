@@ -23,4 +23,4 @@ SELECT [DateKey]
   FROM 
     [AdventureWorksDW2025].[dbo].[DimDate]
   WHERE 
-    CalendarYear >= 2019
+    CalendarYear >= 2024
